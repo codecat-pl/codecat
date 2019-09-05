@@ -1,13 +1,11 @@
 {
   "name": "codecat",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Mateusz Russak <mateusz.russak@codecat.pl>",
+  "license": "MIT",
   "dependencies": {
     "lerna": "^3.16.4"
   }

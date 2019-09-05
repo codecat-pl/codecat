@@ -1,0 +1,23 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "author": "Mateusz Russak <mateusz.russak@codecat.pl>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
+    "sinon": "^7.4.2",
+    "sinon-chai": "^3.3.0",
+    "eslint": "5.16.0",
+    "eslint-config-airbnb": "17.1.0",
+    "eslint-config-airbnb-base": "13.1.0",
+    "eslint-plugin-import": "2.17.2"
+  }
+}

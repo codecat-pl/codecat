@@ -1,0 +1,3 @@
+test: 2
+type: YAML
+yamlOnlyProp: true

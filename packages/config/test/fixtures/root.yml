@@ -1,0 +1,4 @@
+
+type: YAML-root
+tree:
+  $include: ./leaf.yml

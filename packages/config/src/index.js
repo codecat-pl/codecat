@@ -3,7 +3,7 @@ const directives = require('../src/directives');
 
 class BuildContext {
   constructor(schema, opts){
-    this.workdir = process.env.PWD;
+    this.workdir = process.cwd();
     this.config = undefined;
     this.schema = schema;
     this.opts = opts;

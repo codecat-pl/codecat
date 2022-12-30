@@ -11,7 +11,7 @@
   "devDependencies": {
     "@hapi/joi": "^15.1.1",
     "chai": "^4.2.0",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "sinon": "^7.4.1",
     "sinon-chai": "^3.3.0"
   },
